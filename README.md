@@ -62,3 +62,8 @@ Once the compilation process completes, the final executable will be located in 
 ## License
 
 This project is intended for educational and maintenance purposes. Ensure compliance with specific hardware guidelines and software terms when administering system updates.
+
+
+> [!CAUTION]
+> ## NOT RESPONSIBLE FOR YOUR ACTIONS
+> This tool is for educational and maintenance purposes only. Any damage caused to your device is entirely your own responsibility.
